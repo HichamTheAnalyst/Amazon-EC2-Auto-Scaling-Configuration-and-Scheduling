@@ -1,6 +1,5 @@
 # Amazon-EC2-Auto-Scaling-Configuration-and-Scheduling
 
-# Amazon EC2 Auto Scaling Configuration and Scheduling
 
 This project demonstrates how to create and configure an Amazon EC2 Auto Scaling group with scheduled scaling policies to automatically scale resources up and down based on predefined times, optimizing cost efficiency.
 
